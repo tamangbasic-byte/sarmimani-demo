@@ -1,4 +1,4 @@
 # sarmimani-demo
 this is my first repository.
 <br>
-Author-Mani Tamang
+Author-Mani(Sarmi) Tamang
